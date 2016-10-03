@@ -5,6 +5,7 @@ html {
   background: #eee url(bg1.png) no-repeat;
   width: 100%;
   height: 100%;
+  overflow: hidden;
 }
 
 @keyframes face-rotate {
